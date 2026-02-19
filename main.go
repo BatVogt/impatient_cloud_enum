@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"impatient_cloud_enum/enum_tools"
+	"github.com/BatVogt/impatient_cloud_enum/enum_tools"
 )
 
 //go:embed enum_tools/fuzz.txt
